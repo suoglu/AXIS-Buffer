@@ -1,0 +1,2 @@
+# This file is automatically written.  Do not modify.
+proc gen_USERPARAMETER_DROP_COUNTER_WIDTH_ENABLEMENT {DROP_COUNTER_EN } {expr $DROP_COUNTER_EN}

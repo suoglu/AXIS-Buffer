@@ -1,0 +1,43 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Sat Mar 19 20:39:16 2022
+[*]
+[dumpfile] "/home/suoglu/Projects/Personal/axis-drop/src/AXIS_Buffer_1.0/sim.vcd"
+[dumpfile_mtime] "Sat Mar 19 20:35:55 2022"
+[dumpfile_size] 10335
+[savefile] "/home/suoglu/Projects/Personal/axis-drop/src/AXIS_Buffer_1.0/sim/waveform.gtkw"
+[timestart] 0
+[size] 1920 1011
+[pos] -39 -39
+*-16.378098 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 221
+[signals_width] 223
+[sst_expanded] 1
+[sst_vpaned_height] 287
+@820
+tb.state[240:0]
+@28
+tb.clk
+tb.rstn
+@200
+-Slave/In
+@22
+tb.s00_axis_tdata[31:0]
+@28
+tb.s00_axis_tready
+tb.s00_axis_tvalid
+@200
+-Master/Out
+@22
+tb.m00_axis_tdata[31:0]
+@28
+tb.m00_axis_tready
+tb.m00_axis_tvalid
+@200
+-Debug Ports
+@22
+tb.dropped[31:0]
+@28
+tb.buffering
+[pattern_trace] 1
+[pattern_trace] 0

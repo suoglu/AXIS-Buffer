@@ -1,0 +1,2 @@
+# List of sources for iverilog
+hdl/AXIS_Buffer_v1_0.v

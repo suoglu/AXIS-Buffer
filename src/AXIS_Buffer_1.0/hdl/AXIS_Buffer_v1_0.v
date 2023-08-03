@@ -6,6 +6,7 @@
  * File        : AXIS_Buffer_v1_0.v                 *
  * Author      : Yigit Suoglu                       *
  * Last Edit   : 19/03/2022                         *
+ * Licence     : CERN-OHL-W                         *
  * ------------------------------------------------ *
  * Description : AXIS buffer to keep data until     *
  *               next stage accepts it. Does not    *

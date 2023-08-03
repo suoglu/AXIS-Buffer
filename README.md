@@ -7,6 +7,7 @@
 3. Interface Description
 4. Utilization
 5. Status Information
+6. Licence
 
 [![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-6C488A.svg)](https://gitlab.com/suoglu/axis-buffer)
 [![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-3D76C2.svg)](https://github.com/suoglu/AXIS-Buffer)
@@ -81,3 +82,7 @@ I: Input  O: Output
 ## Status Information
 
 **Last Simulation:** 19 March 2022, with [Icarus Verilog](https://iverilog.icarus.com/).
+
+## Licence
+
+CERN Open Hardware Licence Version 2 - Weakly Reciprocal
